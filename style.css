@@ -179,20 +179,3 @@ h1 {
         font-size: 9px;
     }
 }
-.about-me {
-    text-align: center;
-    margin: 40px auto;
-    padding: 30px;
-    max-width: 600px;
-    background-color: #d5d2d0;
-    color: #5a4032;
-}
-
-.about-me h2 {
-    font-size: 28px;
-    margin-bottom: 10px;
-}
-
-.about-me p {
-    line-height: 1.6;
-}
